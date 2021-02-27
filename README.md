@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> A web application to help users find top 5 most relevant videos on Youtube and view them using Youtube Data API v3
+<p align="center"> A web application to help users find top 5 most relevant videos on Youtube and interact with them using Youtube Data API v3
     <br> 
 </p>
 
